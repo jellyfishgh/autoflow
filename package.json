@@ -1,0 +1,33 @@
+{
+  "name": "autoflow",
+  "version": "1.0.0",
+  "description": "auto-flow and engineering of frontend project",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jellyfishgh/autoflow.git"
+  },
+  "keywords": [
+    "auto",
+    "flow",
+    "engineering",
+    "gulp"
+  ],
+  "author": {
+    "name": "jellyfishgh",
+    "email": "oochoo@live.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jellyfishgh/autoflow/issues"
+  },
+  "homepage": "https://github.com/jellyfishgh/autoflow#readme",
+  "devDependencies": {
+    "browser-sync": "^2.14.0",
+    "gulp": "^3.9.1"
+  }
+}
